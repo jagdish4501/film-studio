@@ -1,0 +1,2 @@
+install ffmpeg and set path to environmental variables
+install moviepy version 1.0.3  for video editing
